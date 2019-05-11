@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+ch01/ex1_1
+ch01/ex1_2
+
+
+# vscode
+.vscode/
